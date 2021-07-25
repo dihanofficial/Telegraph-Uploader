@@ -1,7 +1,7 @@
 # Telegraph-Uploader
 
 
-## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [](https://t.me/TheTelegraphUpBot)
+## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [](https://t.me/DOtelegraph_uploaderbot)
 
 <p align="center">
   <img src="https://telegra.ph/file/be2b63c0aec6561ef0333.jpg">
